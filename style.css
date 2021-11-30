@@ -1,0 +1,20 @@
+.parent{
+    display: flex;
+    text-align: center;
+}
+
+.right{
+    width: 50%;
+}
+
+.left{
+    width: 50%;
+}
+
+.formulaire{
+    text-align: center;
+}
+
+.h1-top{
+    text-align: center;
+}
